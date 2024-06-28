@@ -12,8 +12,8 @@
 ## 📫 Connect with Me
 - **Sherlock:** [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
 - **Code4rena:** [Daniel Armstrong](https://code4rena.com/users/@DanielArmstrong)
-- **Telegram:** [@danyarmstrong](https://t.me/Jonh Dao)
-- **Discord:** #dany_armstrong
+- **Telegram:** [@danyarmstrong](https://t.me/johndao1991)
+- **Discord:** #johndao1017
 
 ## 🛠 Hard Skills
 - **Blockchains:** Ethereum, Polygon, Solana
