@@ -1,6 +1,6 @@
 # About Me: lovely-tiger
 
-👋 Hi, I am a blockchain development and a smart contract auditor with a strong background in web development and a passion for blockchain technology.
+👋 Hi, I am a blockchain developer and a smart contract auditor with a strong background in web development and a passion for blockchain technology.
 
 
 ## 🌟 Major Highlights
@@ -10,11 +10,9 @@
 - 🎖 **Certified Audit Contender** in Sherlock (Top 1.12%)
 
 ## 📫 Connect with Me
-- **Sherlock:** [dany.armstrong90](https://sherlock.xyz/users/dany.armstrong90)
-- **Code4rena:** [Daniel Armstrong](https://code4rena.com/users/Daniel-Armstrong)
-- **Twitter:** [@daniel_arms90](https://twitter.com/daniel_arms90)
-- **Skype:** Daniel Armstrong
-- **Telegram:** [@danyarmstrong](https://t.me/danyarmstrong)
+- **Sherlock:** [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
+- **Code4rena:** [Daniel Armstrong](https://code4rena.com/users/@DanielArmstrong)
+- **Telegram:** [@danyarmstrong](https://t.me/Jonh Dao)
 - **Discord:** #dany_armstrong
 
 ## 🛠 Hard Skills
@@ -77,9 +75,9 @@
 
 ## 📈 Contribution Activity
 
-![Contribution Graph](https://ghchart.rshah.org/danyarmstrong) 
+![Contribution Graph](https://ghchart.rshah.org/lovely-tiger) 
 
-Find detailed activity on my [GitHub profile](https://github.com/danyarmstrong).
+Find detailed activity on my [GitHub profile](https://github.com/lovely-tiger).
 
 ---
 
