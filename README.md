@@ -9,12 +9,6 @@
 - 🎖 **Certified Risk Finder** in Sherlock (Top 2.38%)
 - 🎖 **Certified Audit Contender** in Sherlock (Top 1.12%)
 
-## 📫 Connect with Me
-- **Sherlock:** [dany.armstrong90](https://audits.sherlock.xyz/watson/dany.armstrong90)
-- **Code4rena:** [Daniel Armstrong](https://code4rena.com/users/@DanielArmstrong)
-- **Telegram:** [@johndao](https://t.me/johndao1991)
-- **Discord:** #johndao1017
-
 ## 🛠 Hard Skills
 - **Blockchains:** Ethereum, Polygon, Solana
 - **Languages:** Solidity, Rust, JavaScript, TypeScript
@@ -63,15 +57,6 @@
 | Project        | Category              | Severity | Site     | Report | Date    |
 |----------------|-----------------------|----------|----------|--------|---------|
 | DFX Finance    | Stablecoin Swap, DEX  | Medium   | Immunefi | -      | 2023.11 |
-
-## 📂 Public Repositories
-
-- **[zksnark-sudoku](https://github.com/danyarmstrong/zksnark-sudoku):** Sudoku game verified by zkSNARK (TypeScript)
-- **[eth-lending-market](https://github.com/danyarmstrong/eth-lending-market):** Decentralized lending/borrowing market (TypeScript)
-- **[zoo-nft-market](https://github.com/danyarmstrong/zoo-nft-market):** Simple but full-fledged NFT market (JavaScript)
-- **[zoo-nft-market-solana](https://github.com/danyarmstrong/zoo-nft-market-solana):** Zoo NFT Market on Solana (JavaScript)
-- **[hardhat-compound](https://github.com/danyarmstrong/hardhat-compound):** Compound protocol deployment plugin for Hardhat (Solidity)
-- **[audit-reports](https://github.com/danyarmstrong/audit-reports):** All submitted and approved issues at Code4rena, Sherlock, and Immunefi
 
 ## 📈 Contribution Activity
 
