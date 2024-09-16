@@ -57,15 +57,3 @@
 | Project        | Category              | Severity | Site     | Report | Date    |
 |----------------|-----------------------|----------|----------|--------|---------|
 | DFX Finance    | Stablecoin Swap, DEX  | Medium   | Immunefi | -      | 2023.11 |
-
-## 📈 Contribution Activity
-
-![Contribution Graph](https://ghchart.rshah.org/lovely-tiger) 
-
-Find detailed activity on my [GitHub profile](https://github.com/lovely-tiger).
-
----
-
-**[Learn how we count contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/about-your-profile)**
-
----
